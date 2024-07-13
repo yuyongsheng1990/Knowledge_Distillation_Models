@@ -23,5 +23,10 @@ build
 Raw*
 .pyc
 *.pyc
-soft_prompt_tuning/lightning_logs/
-soft_prompt_tuning/logs/
+log
+configs
+distill-test
+logs
+outputs
+saved_models
+test-ner
